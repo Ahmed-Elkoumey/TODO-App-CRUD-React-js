@@ -1,5 +1,5 @@
 # Todo React App (CRUD)
-simple ract app using local storage 
+simple ract app using CRUD oprations 
 
 ## Technologies
 **React ,BootsTrap ,FontaweSome ,uuidv4**
